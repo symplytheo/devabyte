@@ -9,7 +9,7 @@ export default function HomePage() {
         </header>
 
         <section className="text-center">
-          <h2 className="text-4xl md:text-7xl font-black text-transparent bg-clip-text bg-gradient-to-r from-blue-800 from-10% via-sky-500 via-30% to-emerald-500 to-90%">
+          <h2 className="text-[42px] md:text-7xl font-black text-transparent bg-clip-text bg-gradient-to-r from-blue-800 from-10% via-sky-500 via-30% to-emerald-500 to-90%">
             Coming Soon
           </h2>
           <h4 className="font-bold text-xl md:text-3xl my-2 tracking-widest">
